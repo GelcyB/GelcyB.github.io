@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+“title: Welcome to the Rich’s homepage!”
 
 You can use the [editor on GitHub](https://github.com/GelcyB/GelcyB.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
